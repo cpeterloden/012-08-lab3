@@ -1,6 +1,6 @@
-# 012-08-lab3
-<<<<<<< HEAD
-Project Team Members: Seren Chapin
 =======
-HELLO!
->>>>>>> main
+Project Team Members:
+Peter Loden
+Andrew Fine
+=======
+
